@@ -1,0 +1,142 @@
+\documentclass[a4paper, 12pt]{article}
+\usepackage[left=2.5cm,right=2.5cm,
+            top=2.5cm,bottom=2.5cm,
+            bindingoffset=0cm]{geometry}
+
+% useful package for XeLaTex
+\usepackage{xltxtra}
+
+% some specifications for math text
+\defaultfontfeatures{Ligatures=TeX,Mapping=tex-text}
+\usepackage[LGRgreek,noendash]{mathastext}
+\usepackage{amsmath}
+
+% setting default fonts
+\usepackage{fontspec}
+\setmainfont{Brill-Roman.ttf}[
+ ItalicFont = Brill-Italic.ttf,
+ BoldFont = Brill-Bold.ttf,
+ BoldItalicFont = Brill-BoldItalic.ttf]
+\setsansfont{FreeSans}
+\setmonofont{FreeMono}
+
+% ipa symbols if needed
+\usepackage{tipa}
+
+
+% babel
+\usepackage[english]{babel}
+
+
+% tikz for images and forest for linguistic trees
+\usepackage{tikz}
+\usetikzlibrary{calc}
+\usetikzlibrary{positioning}
+\usepackage[linguistics]{forest}
+
+% library for nice arrows
+\usetikzlibrary{paths.ortho}
+
+
+% styles enumeration
+\usepackage[shortlabels]{enumitem}
+
+
+% gloss formatting
+\usepackage{expex}
+\lingset{everygla=\normalfont, belowglpreambleskip=-6pt, aboveglftskip=-6pt, belowexskip=0pt, aboveexskip=0pt, glhangstyle=none, extraglskip=!.25ex}
+
+
+% glossing
+\usepackage{leipzig}
+% automatic small caps
+\renewcommand{\leipzigfont}[1]{\textsc{#1}}
+% input file with glosses for leipzig package
+\input{glosses}
+% list of abbreviations
+\usepackage{glossaries}
+\makeglossaries
+
+
+% adding appendix
+\usepackage[toc,page]{appendix}
+
+
+% styling hyperlinks
+\usepackage{hyperref}
+\hypersetup{
+ colorlinks,
+ citecolor=[RGB]{34, 37, 117},
+ filecolor=black,
+ linkcolor=[RGB]{34, 37, 117},
+ urlcolor=[RGB]{34, 37, 117},
+ pdfborder={0 0 0}
+}
+
+% citation format
+\usepackage[parentracker=true,
+backend=biber,natbib,
+hyperref=true,
+bibencoding=utf8,
+maxcitenames=2,
+style=biblatex-gl,
+citestyle=gl-authoryear-comp
+]{biblatex}
+
+% cite year command
+\DeclareCiteCommand{\citeyear}
+    {}
+    {\bibhyperref{\printfield{year}}\bibhyperref{\printfield{extradate}}}
+    {\multicitedelim}
+    {}
+
+% cite year in parentheses
+\DeclareCiteCommand{\citeyearpar}
+    {}
+    {\mkbibparens{\bibhyperref{\printfield{year}}\bibhyperref{\printfield{extradate}}}}
+    {\multicitedelim}
+    {}
+
+% citation in parentheses
+\newcommand{\parref}[1]{(\ref*{#1})}
+
+
+% quotation
+\usepackage{csquotes}
+
+
+% matrices
+\usepackage{array}
+% vertical spacing between rows in arrays
+\renewcommand{\arraystretch}{1.25}
+
+
+% adding multicolumn mode
+\usepackage{multicol}
+\setlength{\columnsep}{-0.5cm}
+
+
+% nice and long tables
+\usepackage{booktabs}
+\usepackage{longtable}
+
+% captions for subfigures and subtables
+\usepackage{subcaption}
+
+% default bib resource
+\addbibresource{bib.bib}
+
+
+% default spacing set to 1.5, no parindent,
+% spacing after paragraphs is 6pt
+\usepackage{setspace}
+\onehalfspacing
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{6pt}
+
+% list of abbreviation formating
+\renewcommand{\glossarypreamble}{\hfill\begin{minipage}{\textwidth}}
+\renewcommand{\glossarypostamble}{\end{minipage}\hfill}
+
+% special apostrophe
+\renewcommand{\'}{\textquotesingle}

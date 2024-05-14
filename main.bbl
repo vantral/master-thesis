@@ -1,0 +1,866 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.3 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{nyt/global//global/global/global}
+    \entry{alexiadou2003some}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=f73ed47c812593bc6d2d8f275bb01c90}{%
+           family={Alexiadou},
+           familyi={A\bibinitperiod},
+           given={Artemis},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{2}{%
+        {by Martine Coene}%
+        {Yves D’hulst}%
+      }
+      \strng{namehash}{f73ed47c812593bc6d2d8f275bb01c90}
+      \strng{fullhash}{f73ed47c812593bc6d2d8f275bb01c90}
+      \strng{fullhashraw}{f73ed47c812593bc6d2d8f275bb01c90}
+      \strng{bibnamehash}{f73ed47c812593bc6d2d8f275bb01c90}
+      \strng{authorbibnamehash}{f73ed47c812593bc6d2d8f275bb01c90}
+      \strng{authornamehash}{f73ed47c812593bc6d2d8f275bb01c90}
+      \strng{authorfullhash}{f73ed47c812593bc6d2d8f275bb01c90}
+      \strng{authorfullhashraw}{f73ed47c812593bc6d2d8f275bb01c90}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{From NP to DP}
+      \field{title}{Some notes on the structure of alienable and inalienable possessors}
+      \field{volume}{2}
+      \field{year}{2003}
+      \field{pages}{167\bibrangedash 188}
+      \range{pages}{22}
+    \endentry
+    \entry{bickel2008refined}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=ab7da2db0384a1288c8af609c794a21e}{%
+           family={Bickel},
+           familyi={B\bibinitperiod},
+           given={Balthasar},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Akademie Verlag}%
+      }
+      \strng{namehash}{ab7da2db0384a1288c8af609c794a21e}
+      \strng{fullhash}{ab7da2db0384a1288c8af609c794a21e}
+      \strng{fullhashraw}{ab7da2db0384a1288c8af609c794a21e}
+      \strng{bibnamehash}{ab7da2db0384a1288c8af609c794a21e}
+      \strng{authorbibnamehash}{ab7da2db0384a1288c8af609c794a21e}
+      \strng{authornamehash}{ab7da2db0384a1288c8af609c794a21e}
+      \strng{authorfullhash}{ab7da2db0384a1288c8af609c794a21e}
+      \strng{authorfullhashraw}{ab7da2db0384a1288c8af609c794a21e}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Language Typology and Universals}
+      \field{number}{3}
+      \field{title}{A refined sampling procedure for genealogical control}
+      \field{volume}{61}
+      \field{year}{2008}
+      \field{pages}{221\bibrangedash 233}
+      \range{pages}{13}
+    \endentry
+    \entry{Broadbent-1964}{book}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=747d3258e227fbdd6a832ff37499a7f7}{%
+           family={Broadbent},
+           familyi={B\bibinitperiod},
+           given={Sylvia\bibnamedelima M.},
+           giveni={S\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Berkeley}%
+      }
+      \list{publisher}{1}{%
+        {University of California Press}%
+      }
+      \strng{namehash}{747d3258e227fbdd6a832ff37499a7f7}
+      \strng{fullhash}{747d3258e227fbdd6a832ff37499a7f7}
+      \strng{fullhashraw}{747d3258e227fbdd6a832ff37499a7f7}
+      \strng{bibnamehash}{747d3258e227fbdd6a832ff37499a7f7}
+      \strng{authorbibnamehash}{747d3258e227fbdd6a832ff37499a7f7}
+      \strng{authornamehash}{747d3258e227fbdd6a832ff37499a7f7}
+      \strng{authorfullhash}{747d3258e227fbdd6a832ff37499a7f7}
+      \strng{authorfullhashraw}{747d3258e227fbdd6a832ff37499a7f7}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{series}{University of California Publications in Linguistics}
+      \field{title}{The Southern Sierra Miwok Language}
+      \field{volume}{38}
+      \field{year}{1964}
+    \endentry
+    \entry{Dixon-1988}{book}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=c9222ad6aab9bc5553b2b6e81bc29792}{%
+           family={Dixon},
+           familyi={D\bibinitperiod},
+           given={Robert\bibnamedelimb M.\bibnamedelimi W.},
+           giveni={R\bibinitperiod\bibinitdelim M\bibinitperiod\bibinitdelim W\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Chicago}%
+      }
+      \list{publisher}{1}{%
+        {University of Chicago Press}%
+      }
+      \strng{namehash}{c9222ad6aab9bc5553b2b6e81bc29792}
+      \strng{fullhash}{c9222ad6aab9bc5553b2b6e81bc29792}
+      \strng{fullhashraw}{c9222ad6aab9bc5553b2b6e81bc29792}
+      \strng{bibnamehash}{c9222ad6aab9bc5553b2b6e81bc29792}
+      \strng{authorbibnamehash}{c9222ad6aab9bc5553b2b6e81bc29792}
+      \strng{authornamehash}{c9222ad6aab9bc5553b2b6e81bc29792}
+      \strng{authorfullhash}{c9222ad6aab9bc5553b2b6e81bc29792}
+      \strng{authorfullhashraw}{c9222ad6aab9bc5553b2b6e81bc29792}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{A Grammar of Boumaa Fijian}
+      \field{year}{1988}
+    \endentry
+    \entry{dryer1989large}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=ebc8611479e70482565864e81aee4e75}{%
+           family={Dryer},
+           familyi={D\bibinitperiod},
+           given={Matthew\bibnamedelima S},
+           giveni={M\bibinitperiod\bibinitdelim S\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {John Benjamins}%
+      }
+      \strng{namehash}{ebc8611479e70482565864e81aee4e75}
+      \strng{fullhash}{ebc8611479e70482565864e81aee4e75}
+      \strng{fullhashraw}{ebc8611479e70482565864e81aee4e75}
+      \strng{bibnamehash}{ebc8611479e70482565864e81aee4e75}
+      \strng{authorbibnamehash}{ebc8611479e70482565864e81aee4e75}
+      \strng{authornamehash}{ebc8611479e70482565864e81aee4e75}
+      \strng{authorfullhash}{ebc8611479e70482565864e81aee4e75}
+      \strng{authorfullhashraw}{ebc8611479e70482565864e81aee4e75}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Studies in Language. International Journal sponsored by the Foundation “Foundations of Language”}
+      \field{number}{2}
+      \field{title}{Large linguistic areas and language sampling}
+      \field{volume}{13}
+      \field{year}{1989}
+      \field{pages}{257\bibrangedash 292}
+      \range{pages}{36}
+    \endentry
+    \entry{duguine2008structural}{inproceedings}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=b65da82c4e5497a4a6db793fe76aa9f3}{%
+           family={Duguine},
+           familyi={D\bibinitperiod},
+           given={Maia},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{b65da82c4e5497a4a6db793fe76aa9f3}
+      \strng{fullhash}{b65da82c4e5497a4a6db793fe76aa9f3}
+      \strng{fullhashraw}{b65da82c4e5497a4a6db793fe76aa9f3}
+      \strng{bibnamehash}{b65da82c4e5497a4a6db793fe76aa9f3}
+      \strng{authorbibnamehash}{b65da82c4e5497a4a6db793fe76aa9f3}
+      \strng{authornamehash}{b65da82c4e5497a4a6db793fe76aa9f3}
+      \strng{authorfullhash}{b65da82c4e5497a4a6db793fe76aa9f3}
+      \strng{authorfullhashraw}{b65da82c4e5497a4a6db793fe76aa9f3}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Annual Meeting of the Berkeley Linguistics Society}
+      \field{title}{Structural case and the typology of possessive constructions}
+      \field{year}{2008}
+      \field{pages}{97\bibrangedash 108}
+      \range{pages}{12}
+    \endentry
+    \entry{janhunen_mongolian_2012}{book}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=8eb99b6f28b9a2fe9ce9ce95a79ca840}{%
+           family={Janhunen},
+           familyi={J\bibinitperiod},
+           given={Juha\bibnamedelima A},
+           giveni={J\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {John {Benjamins} {Publishing}}%
+      }
+      \strng{namehash}{8eb99b6f28b9a2fe9ce9ce95a79ca840}
+      \strng{fullhash}{8eb99b6f28b9a2fe9ce9ce95a79ca840}
+      \strng{fullhashraw}{8eb99b6f28b9a2fe9ce9ce95a79ca840}
+      \strng{bibnamehash}{8eb99b6f28b9a2fe9ce9ce95a79ca840}
+      \strng{authorbibnamehash}{8eb99b6f28b9a2fe9ce9ce95a79ca840}
+      \strng{authornamehash}{8eb99b6f28b9a2fe9ce9ce95a79ca840}
+      \strng{authorfullhash}{8eb99b6f28b9a2fe9ce9ce95a79ca840}
+      \strng{authorfullhashraw}{8eb99b6f28b9a2fe9ce9ce95a79ca840}
+      \field{sortinit}{J}
+      \field{sortinithash}{b2f54a9081ace9966a7cb9413811edb4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Mongolian}
+      \field{volume}{19}
+      \field{year}{2012}
+    \endentry
+    \entry{kert_saamskij_1971}{book}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=a828826a099491c3073c920b2917bad4}{%
+           family={Kert},
+           familyi={K\bibinitperiod},
+           given={Georgiy\bibnamedelima M.},
+           giveni={G\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Leningrad}%
+      }
+      \list{publisher}{1}{%
+        {Nauka}%
+      }
+      \strng{namehash}{a828826a099491c3073c920b2917bad4}
+      \strng{fullhash}{a828826a099491c3073c920b2917bad4}
+      \strng{fullhashraw}{a828826a099491c3073c920b2917bad4}
+      \strng{bibnamehash}{a828826a099491c3073c920b2917bad4}
+      \strng{authorbibnamehash}{a828826a099491c3073c920b2917bad4}
+      \strng{authornamehash}{a828826a099491c3073c920b2917bad4}
+      \strng{authorfullhash}{a828826a099491c3073c920b2917bad4}
+      \strng{authorfullhashraw}{a828826a099491c3073c920b2917bad4}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Saamskij jazyk (kil'dinskij dialekt): fonetika, morfologija, sintaksis. [{Saami} language ({Kildin} dialect): phonetics, morphology, syntax]}
+      \field{year}{1971}
+    \endentry
+    \entry{kuruch_saamsko-russkij_1985}{book}{}{}
+      \name{author}{6}{}{%
+        {{un=0,uniquepart=base,hash=fd14803f5aab1347b3745b7e9ae159af}{%
+           family={Kuruch},
+           familyi={K\bibinitperiod},
+           given={Rimma\bibnamedelima D.},
+           giveni={R\bibinitperiod\bibinitdelim D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a50313b2e9d6a12ea6e7e54ff94f9d12}{%
+           family={Afanasieva},
+           familyi={A\bibinitperiod},
+           given={Nina\bibnamedelima E.},
+           giveni={N\bibinitperiod\bibinitdelim E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b15d8907af6abc4ef67eaf5ff0fda5af}{%
+           family={Mechkina},
+           familyi={M\bibinitperiod},
+           given={Ekaterina\bibnamedelima I.},
+           giveni={E\bibinitperiod\bibinitdelim I\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4017ac70612e1b816c06d89c201e4724}{%
+           family={Antonova},
+           familyi={A\bibinitperiod},
+           given={Aleksandra\bibnamedelima A.},
+           giveni={A\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b9a0c459654f5273b271a41284279818}{%
+           family={Glukhov},
+           familyi={G\bibinitperiod},
+           given={Boris\bibnamedelima A.},
+           giveni={B\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7699b6f097653cee2f12c8c672432237}{%
+           family={Yakovlev},
+           familyi={Y\bibinitperiod},
+           given={Lazer'\bibnamedelima D.},
+           giveni={L\bibinitperiod\bibinitdelim D\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Moscow}%
+      }
+      \list{publisher}{1}{%
+        {Russkij Jazyk}%
+      }
+      \strng{namehash}{bdc6176b22fdf35753cbbb8ef73635be}
+      \strng{fullhash}{f808c4fcd4d78b1b5e7b7d0e77a58161}
+      \strng{fullhashraw}{f808c4fcd4d78b1b5e7b7d0e77a58161}
+      \strng{bibnamehash}{bdc6176b22fdf35753cbbb8ef73635be}
+      \strng{authorbibnamehash}{bdc6176b22fdf35753cbbb8ef73635be}
+      \strng{authornamehash}{bdc6176b22fdf35753cbbb8ef73635be}
+      \strng{authorfullhash}{f808c4fcd4d78b1b5e7b7d0e77a58161}
+      \strng{authorfullhashraw}{f808c4fcd4d78b1b5e7b7d0e77a58161}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Saamsko-russkij slovar' [{Saami}-{Russian} dictionary]}
+      \field{year}{1985}
+    \endentry
+    \entry{lander2020head}{incollection}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=b3f773584f0caa8d099b2fda17b6e913}{%
+           family={Lander},
+           familyi={L\bibinitperiod},
+           given={Yury},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=6c09f5edfc18c697f68f320b247a7570}{%
+           family={Nichols},
+           familyi={N\bibinitperiod},
+           given={Johanna},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{a353dbd603d6315a634965a48ada5869}
+      \strng{fullhash}{a353dbd603d6315a634965a48ada5869}
+      \strng{fullhashraw}{a353dbd603d6315a634965a48ada5869}
+      \strng{bibnamehash}{a353dbd603d6315a634965a48ada5869}
+      \strng{authorbibnamehash}{a353dbd603d6315a634965a48ada5869}
+      \strng{authornamehash}{a353dbd603d6315a634965a48ada5869}
+      \strng{authorfullhash}{a353dbd603d6315a634965a48ada5869}
+      \strng{authorfullhashraw}{a353dbd603d6315a634965a48ada5869}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Oxford research encyclopedia of linguistics}
+      \field{title}{Head/dependent marking}
+      \field{year}{2020}
+    \endentry
+    \entry{miestamo2016sampling}{article}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=898dbabcab452b2f2856a7bd9d9875db}{%
+           family={Miestamo},
+           familyi={M\bibinitperiod},
+           given={Matti},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0d046bf5d45c263567d8e33e0654e846}{%
+           family={Bakker},
+           familyi={B\bibinitperiod},
+           given={Dik},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=96602c29717a4f4a85f6fdd7c7fcbfe2}{%
+           family={Arppe},
+           familyi={A\bibinitperiod},
+           given={Antti},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {De Gruyter}%
+      }
+      \strng{namehash}{d919029c2040d0c499f0b2d909f3e9a4}
+      \strng{fullhash}{27e4d87086f404a8e98870985bac8303}
+      \strng{fullhashraw}{27e4d87086f404a8e98870985bac8303}
+      \strng{bibnamehash}{27e4d87086f404a8e98870985bac8303}
+      \strng{authorbibnamehash}{27e4d87086f404a8e98870985bac8303}
+      \strng{authornamehash}{d919029c2040d0c499f0b2d909f3e9a4}
+      \strng{authorfullhash}{27e4d87086f404a8e98870985bac8303}
+      \strng{authorfullhashraw}{27e4d87086f404a8e98870985bac8303}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Linguistic Typology}
+      \field{number}{2}
+      \field{title}{Sampling for variety}
+      \field{volume}{20}
+      \field{year}{2016}
+      \field{pages}{233\bibrangedash 296}
+      \range{pages}{64}
+    \endentry
+    \entry{Miller-1965}{book}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=86046f4304d96b82ab525886fdb9ec8f}{%
+           family={Miller},
+           familyi={M\bibinitperiod},
+           given={Wick\bibnamedelima R.},
+           giveni={W\bibinitperiod\bibinitdelim R\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Berkeley}%
+      }
+      \list{publisher}{1}{%
+        {University of California Press}%
+      }
+      \strng{namehash}{86046f4304d96b82ab525886fdb9ec8f}
+      \strng{fullhash}{86046f4304d96b82ab525886fdb9ec8f}
+      \strng{fullhashraw}{86046f4304d96b82ab525886fdb9ec8f}
+      \strng{bibnamehash}{86046f4304d96b82ab525886fdb9ec8f}
+      \strng{authorbibnamehash}{86046f4304d96b82ab525886fdb9ec8f}
+      \strng{authornamehash}{86046f4304d96b82ab525886fdb9ec8f}
+      \strng{authorfullhash}{86046f4304d96b82ab525886fdb9ec8f}
+      \strng{authorfullhashraw}{86046f4304d96b82ab525886fdb9ec8f}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{series}{University of California Publications in Linguistics}
+      \field{title}{Acoma Grammar and Texts}
+      \field{volume}{40}
+      \field{year}{1965}
+    \endentry
+    \entry{nichols1986head}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=6c09f5edfc18c697f68f320b247a7570}{%
+           family={Nichols},
+           familyi={N\bibinitperiod},
+           given={Johanna},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {JSTOR}%
+      }
+      \strng{namehash}{6c09f5edfc18c697f68f320b247a7570}
+      \strng{fullhash}{6c09f5edfc18c697f68f320b247a7570}
+      \strng{fullhashraw}{6c09f5edfc18c697f68f320b247a7570}
+      \strng{bibnamehash}{6c09f5edfc18c697f68f320b247a7570}
+      \strng{authorbibnamehash}{6c09f5edfc18c697f68f320b247a7570}
+      \strng{authornamehash}{6c09f5edfc18c697f68f320b247a7570}
+      \strng{authorfullhash}{6c09f5edfc18c697f68f320b247a7570}
+      \strng{authorfullhashraw}{6c09f5edfc18c697f68f320b247a7570}
+      \field{extraname}{1}
+      \field{sortinit}{N}
+      \field{sortinithash}{22369a73d5f88983a108b63f07f37084}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Language}
+      \field{title}{Head-marking and dependent-marking grammar}
+      \field{year}{1986}
+      \field{pages}{56\bibrangedash 119}
+      \range{pages}{64}
+    \endentry
+    \entry{nichols1988alienable}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=6c09f5edfc18c697f68f320b247a7570}{%
+           family={Nichols},
+           familyi={N\bibinitperiod},
+           given={Johanna},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{6c09f5edfc18c697f68f320b247a7570}
+      \strng{fullhash}{6c09f5edfc18c697f68f320b247a7570}
+      \strng{fullhashraw}{6c09f5edfc18c697f68f320b247a7570}
+      \strng{bibnamehash}{6c09f5edfc18c697f68f320b247a7570}
+      \strng{authorbibnamehash}{6c09f5edfc18c697f68f320b247a7570}
+      \strng{authornamehash}{6c09f5edfc18c697f68f320b247a7570}
+      \strng{authorfullhash}{6c09f5edfc18c697f68f320b247a7570}
+      \strng{authorfullhashraw}{6c09f5edfc18c697f68f320b247a7570}
+      \field{extraname}{2}
+      \field{sortinit}{N}
+      \field{sortinithash}{22369a73d5f88983a108b63f07f37084}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{In honor of Mary Haas}
+      \field{title}{On alienable and inalienable possession}
+      \field{year}{1988}
+      \field{pages}{557\bibrangedash 609}
+      \range{pages}{53}
+    \endentry
+    \entry{nichols1992linguistic}{book}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=6c09f5edfc18c697f68f320b247a7570}{%
+           family={Nichols},
+           familyi={N\bibinitperiod},
+           given={Johanna},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {University of Chicago Press}%
+      }
+      \strng{namehash}{6c09f5edfc18c697f68f320b247a7570}
+      \strng{fullhash}{6c09f5edfc18c697f68f320b247a7570}
+      \strng{fullhashraw}{6c09f5edfc18c697f68f320b247a7570}
+      \strng{bibnamehash}{6c09f5edfc18c697f68f320b247a7570}
+      \strng{authorbibnamehash}{6c09f5edfc18c697f68f320b247a7570}
+      \strng{authornamehash}{6c09f5edfc18c697f68f320b247a7570}
+      \strng{authorfullhash}{6c09f5edfc18c697f68f320b247a7570}
+      \strng{authorfullhashraw}{6c09f5edfc18c697f68f320b247a7570}
+      \field{extraname}{3}
+      \field{sortinit}{N}
+      \field{sortinithash}{22369a73d5f88983a108b63f07f37084}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Linguistic diversity in space and time}
+      \field{year}{1992}
+    \endentry
+    \entry{nichols_locus_2013}{incollection}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=6c09f5edfc18c697f68f320b247a7570}{%
+           family={Nichols},
+           familyi={N\bibinitperiod},
+           given={Johanna},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ab7da2db0384a1288c8af609c794a21e}{%
+           family={Bickel},
+           familyi={B\bibinitperiod},
+           given={Balthasar},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+      }
+      \name{editor}{2}{}{%
+        {{hash=ebc8611479e70482565864e81aee4e75}{%
+           family={Dryer},
+           familyi={D\bibinitperiod},
+           given={{Matthew}\bibnamedelima {S}.},
+           giveni={M\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=6554cfb014a9427af44c63f16722a3dd}{%
+           family={{Haspelmath}},
+           familyi={H\bibinitperiod},
+           given={{Martin}},
+           giveni={M\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Leipzig}%
+      }
+      \list{publisher}{1}{%
+        {Max {Planck} {Institute} for {Evolutionary} {Anthropology}}%
+      }
+      \strng{namehash}{1e3300b1b91b6023000947d4f3bb7c99}
+      \strng{fullhash}{1e3300b1b91b6023000947d4f3bb7c99}
+      \strng{fullhashraw}{1e3300b1b91b6023000947d4f3bb7c99}
+      \strng{bibnamehash}{1e3300b1b91b6023000947d4f3bb7c99}
+      \strng{authorbibnamehash}{1e3300b1b91b6023000947d4f3bb7c99}
+      \strng{authornamehash}{1e3300b1b91b6023000947d4f3bb7c99}
+      \strng{authorfullhash}{1e3300b1b91b6023000947d4f3bb7c99}
+      \strng{authorfullhashraw}{1e3300b1b91b6023000947d4f3bb7c99}
+      \strng{editorbibnamehash}{fe62fbc91518e882ff47d9bf1a75e3ee}
+      \strng{editornamehash}{fe62fbc91518e882ff47d9bf1a75e3ee}
+      \strng{editorfullhash}{fe62fbc91518e882ff47d9bf1a75e3ee}
+      \strng{editorfullhashraw}{fe62fbc91518e882ff47d9bf1a75e3ee}
+      \field{sortinit}{N}
+      \field{sortinithash}{22369a73d5f88983a108b63f07f37084}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{The {World} {Atlas} of {Language} {Structures} {Online}}
+      \field{title}{Locus of {Marking} in {Possessive} {Noun} {Phrases}}
+      \field{year}{2013}
+      \verb{urlraw}
+      \verb https://wals.info/chapter/24
+      \endverb
+      \verb{url}
+      \verb https://wals.info/chapter/24
+      \endverb
+    \endentry
+    \entry{olsson2021grammar}{book}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=30fd5700731f00b858a98160aeab8181}{%
+           family={Olsson},
+           familyi={O\bibinitperiod},
+           given={Bruno},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Walter de Gruyter GmbH \& Co KG}%
+      }
+      \strng{namehash}{30fd5700731f00b858a98160aeab8181}
+      \strng{fullhash}{30fd5700731f00b858a98160aeab8181}
+      \strng{fullhashraw}{30fd5700731f00b858a98160aeab8181}
+      \strng{bibnamehash}{30fd5700731f00b858a98160aeab8181}
+      \strng{authorbibnamehash}{30fd5700731f00b858a98160aeab8181}
+      \strng{authornamehash}{30fd5700731f00b858a98160aeab8181}
+      \strng{authorfullhash}{30fd5700731f00b858a98160aeab8181}
+      \strng{authorfullhashraw}{30fd5700731f00b858a98160aeab8181}
+      \field{sortinit}{O}
+      \field{sortinithash}{2cd7140a07aea5341f9e2771efe90aae}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{A grammar of Coastal Marind}
+      \field{volume}{87}
+      \field{year}{2021}
+    \endentry
+    \entry{riesler_kildin_2022}{incollection}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=8c529ae6bc4ee160ca0a259873f2d0da}{%
+           family={Rießler},
+           familyi={R\bibinitperiod},
+           given={Michael},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Oxford University Press}%
+      }
+      \strng{namehash}{8c529ae6bc4ee160ca0a259873f2d0da}
+      \strng{fullhash}{8c529ae6bc4ee160ca0a259873f2d0da}
+      \strng{fullhashraw}{8c529ae6bc4ee160ca0a259873f2d0da}
+      \strng{bibnamehash}{8c529ae6bc4ee160ca0a259873f2d0da}
+      \strng{authorbibnamehash}{8c529ae6bc4ee160ca0a259873f2d0da}
+      \strng{authornamehash}{8c529ae6bc4ee160ca0a259873f2d0da}
+      \strng{authorfullhash}{8c529ae6bc4ee160ca0a259873f2d0da}
+      \strng{authorfullhashraw}{8c529ae6bc4ee160ca0a259873f2d0da}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{The {Oxford} {Guide} to the {Uralic} {Languages}}
+      \field{number}{Oxford Guides to the World's Languages}
+      \field{title}{Kildin {Saami}}
+      \field{year}{2022}
+    \endentry
+    \entry{rijkhoff1993method}{article}{}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=10f9a3480f787f37730ce6804c627184}{%
+           family={Rijkhoff},
+           familyi={R\bibinitperiod},
+           given={Jan},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0d046bf5d45c263567d8e33e0654e846}{%
+           family={Bakker},
+           familyi={B\bibinitperiod},
+           given={Dik},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=5006c7cf09b64418484ee317ae59046f}{%
+           family={Hengeveld},
+           familyi={H\bibinitperiod},
+           given={Kees},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=21bb0f24954673e80ba85191095593c0}{%
+           family={Kahrel},
+           familyi={K\bibinitperiod},
+           given={Peter},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {John Benjamins}%
+      }
+      \strng{namehash}{e3a9709bab28949f5fe1b51d9fb84b38}
+      \strng{fullhash}{f5d7a7f8cfc7f6a19a8ad4f2408139ea}
+      \strng{fullhashraw}{f5d7a7f8cfc7f6a19a8ad4f2408139ea}
+      \strng{bibnamehash}{e3a9709bab28949f5fe1b51d9fb84b38}
+      \strng{authorbibnamehash}{e3a9709bab28949f5fe1b51d9fb84b38}
+      \strng{authornamehash}{e3a9709bab28949f5fe1b51d9fb84b38}
+      \strng{authorfullhash}{f5d7a7f8cfc7f6a19a8ad4f2408139ea}
+      \strng{authorfullhashraw}{f5d7a7f8cfc7f6a19a8ad4f2408139ea}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Studies in Language. International Journal sponsored by the Foundation “Foundations of Language”}
+      \field{number}{1}
+      \field{title}{A method of language sampling}
+      \field{volume}{17}
+      \field{year}{1993}
+      \field{pages}{169\bibrangedash 203}
+      \range{pages}{35}
+    \endentry
+    \entry{szabolcsi1981possessive}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=599db229a86d52296d4a9c9bfdda3f80}{%
+           family={Szabolcsi},
+           familyi={S\bibinitperiod},
+           given={Anna},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {JSTOR}%
+      }
+      \strng{namehash}{599db229a86d52296d4a9c9bfdda3f80}
+      \strng{fullhash}{599db229a86d52296d4a9c9bfdda3f80}
+      \strng{fullhashraw}{599db229a86d52296d4a9c9bfdda3f80}
+      \strng{bibnamehash}{599db229a86d52296d4a9c9bfdda3f80}
+      \strng{authorbibnamehash}{599db229a86d52296d4a9c9bfdda3f80}
+      \strng{authornamehash}{599db229a86d52296d4a9c9bfdda3f80}
+      \strng{authorfullhash}{599db229a86d52296d4a9c9bfdda3f80}
+      \strng{authorfullhashraw}{599db229a86d52296d4a9c9bfdda3f80}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Acta Linguistica Academiae Scientiarum Hungaricae}
+      \field{number}{1/4}
+      \field{title}{The possessive construction in Hungarian: A configurational category in a non-configurational language}
+      \field{volume}{31}
+      \field{year}{1981}
+      \field{pages}{261\bibrangedash 289}
+      \range{pages}{29}
+    \endentry
+    \entry{van2016locus}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=ff3447f174d6a17fa0e5b69d923067a3}{%
+           family={Van\bibnamedelima Rijn},
+           familyi={V\bibinitperiod\bibinitdelim R\bibinitperiod},
+           given={Marlou},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {De Gruyter}%
+      }
+      \strng{namehash}{ff3447f174d6a17fa0e5b69d923067a3}
+      \strng{fullhash}{ff3447f174d6a17fa0e5b69d923067a3}
+      \strng{fullhashraw}{ff3447f174d6a17fa0e5b69d923067a3}
+      \strng{bibnamehash}{ff3447f174d6a17fa0e5b69d923067a3}
+      \strng{authorbibnamehash}{ff3447f174d6a17fa0e5b69d923067a3}
+      \strng{authornamehash}{ff3447f174d6a17fa0e5b69d923067a3}
+      \strng{authorfullhash}{ff3447f174d6a17fa0e5b69d923067a3}
+      \strng{authorfullhashraw}{ff3447f174d6a17fa0e5b69d923067a3}
+      \field{extraname}{1}
+      \field{sortinit}{V}
+      \field{sortinithash}{afb52128e5b4dc4b843768c0113d673b}
+      \field{extradate}{1}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Folia Linguistica}
+      \field{number}{1}
+      \field{title}{Locus of marking typology in the possessive NP: A new approach}
+      \field{volume}{50}
+      \field{year}{2016}
+      \field{pages}{269\bibrangedash 327}
+      \range{pages}{59}
+    \endentry
+    \entry{van2016grammaticalization}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=ff3447f174d6a17fa0e5b69d923067a3}{%
+           family={Van\bibnamedelima Rijn},
+           familyi={V\bibinitperiod\bibinitdelim R\bibinitperiod},
+           given={Marlou},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Wiley {Online} Library}%
+      }
+      \strng{namehash}{ff3447f174d6a17fa0e5b69d923067a3}
+      \strng{fullhash}{ff3447f174d6a17fa0e5b69d923067a3}
+      \strng{fullhashraw}{ff3447f174d6a17fa0e5b69d923067a3}
+      \strng{bibnamehash}{ff3447f174d6a17fa0e5b69d923067a3}
+      \strng{authorbibnamehash}{ff3447f174d6a17fa0e5b69d923067a3}
+      \strng{authornamehash}{ff3447f174d6a17fa0e5b69d923067a3}
+      \strng{authorfullhash}{ff3447f174d6a17fa0e5b69d923067a3}
+      \strng{authorfullhashraw}{ff3447f174d6a17fa0e5b69d923067a3}
+      \field{extraname}{2}
+      \field{sortinit}{V}
+      \field{sortinithash}{afb52128e5b4dc4b843768c0113d673b}
+      \field{extradate}{2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Transactions of the {Philological} {Society}}
+      \field{number}{2}
+      \field{title}{The grammaticalization of possessive person marking: {A} typological approach}
+      \field{volume}{114}
+      \field{year}{2016}
+      \field{pages}{233\bibrangedash 276}
+      \range{pages}{44}
+    \endentry
+    \entry{Voorhoeve-1965b}{book}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=8657dcea61b2d5415c49bff687bf4c34}{%
+           family={Voorhoeve},
+           familyi={V\bibinitperiod},
+           given={Clemens\bibnamedelima L.},
+           giveni={C\bibinitperiod\bibinitdelim L\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {The Hague}%
+      }
+      \list{publisher}{1}{%
+        {M. Nijhoff}%
+      }
+      \strng{namehash}{8657dcea61b2d5415c49bff687bf4c34}
+      \strng{fullhash}{8657dcea61b2d5415c49bff687bf4c34}
+      \strng{fullhashraw}{8657dcea61b2d5415c49bff687bf4c34}
+      \strng{bibnamehash}{8657dcea61b2d5415c49bff687bf4c34}
+      \strng{authorbibnamehash}{8657dcea61b2d5415c49bff687bf4c34}
+      \strng{authornamehash}{8657dcea61b2d5415c49bff687bf4c34}
+      \strng{authorfullhash}{8657dcea61b2d5415c49bff687bf4c34}
+      \strng{authorfullhashraw}{8657dcea61b2d5415c49bff687bf4c34}
+      \field{sortinit}{V}
+      \field{sortinithash}{afb52128e5b4dc4b843768c0113d673b}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{series}{Verhandelingen van het Koninklijk Instituut voor Taal, Land en Volkenkunde}
+      \field{title}{The Flamingo Bay Dialect of the Asmat Language}
+      \field{volume}{46}
+      \field{year}{1965}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+

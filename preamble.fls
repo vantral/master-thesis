@@ -1,0 +1,27 @@
+PWD c:/Users/vantral/Desktop/master thesis
+INPUT c:/texlive/2024/texmf.cnf
+INPUT c:/texlive/2024/texmf-dist/web2c/texmf.cnf
+INPUT c:/texlive/2024/texmf-var/web2c/pdftex/pdflatex.fmt
+INPUT c:/Users/vantral/Desktop/master thesis/preamble.tex
+OUTPUT preamble.log
+INPUT c:/texlive/2024/texmf-dist/tex/latex/base/article.cls
+INPUT c:/texlive/2024/texmf-dist/tex/latex/base/article.cls
+INPUT c:/texlive/2024/texmf-dist/tex/latex/base/size12.clo
+INPUT c:/texlive/2024/texmf-dist/tex/latex/base/size12.clo
+INPUT c:/texlive/2024/texmf-dist/tex/latex/base/size12.clo
+INPUT c:/texlive/2024/texmf-dist/fonts/map/fontname/texfonts.map
+INPUT c:/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmr12.tfm
+INPUT c:/texlive/2024/texmf-dist/tex/latex/geometry/geometry.sty
+INPUT c:/texlive/2024/texmf-dist/tex/latex/geometry/geometry.sty
+INPUT c:/texlive/2024/texmf-dist/tex/latex/graphics/keyval.sty
+INPUT c:/texlive/2024/texmf-dist/tex/latex/graphics/keyval.sty
+INPUT c:/texlive/2024/texmf-dist/tex/generic/iftex/ifvtex.sty
+INPUT c:/texlive/2024/texmf-dist/tex/generic/iftex/ifvtex.sty
+INPUT c:/texlive/2024/texmf-dist/tex/generic/iftex/iftex.sty
+INPUT c:/texlive/2024/texmf-dist/tex/generic/iftex/iftex.sty
+INPUT c:/texlive/2024/texmf-dist/tex/xelatex/xltxtra/xltxtra.sty
+INPUT c:/texlive/2024/texmf-dist/tex/xelatex/xltxtra/xltxtra.sty
+INPUT c:/texlive/2024/texmf-dist/tex/generic/iftex/ifluatex.sty
+INPUT c:/texlive/2024/texmf-dist/tex/generic/iftex/ifluatex.sty
+INPUT c:/texlive/2024/texmf-dist/tex/generic/iftex/ifxetex.sty
+INPUT c:/texlive/2024/texmf-dist/tex/generic/iftex/ifxetex.sty
