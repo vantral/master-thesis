@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2024.5.9)  9 MAY 2024 19:26
+This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2024.5.9)  25 MAY 2024 14:10
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1651,6 +1651,65 @@ Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
 \@lastruleclass=\count538
 \@thisrulewidth=\dimen334
 )
+(c:/texlive/2024/texmf-dist/tex/latex/tikz-qtree/tikz-qtree.sty
+(c:/texlive/2024/texmf-dist/tex/latex/tikz-qtree/pgftree.sty
+(c:/texlive/2024/texmf-dist/tex/latex/tikz-qtree/pgfsubpic.sty
+(c:/texlive/2024/texmf-dist/tex/latex/tikz-qtree/pgfsubpic.tex
+\pgf@subpicminx=\dimen335
+\pgf@subpicminy=\dimen336
+\pgf@subpicmaxx=\dimen337
+\pgf@subpicmaxy=\dimen338
+))
+(c:/texlive/2024/texmf-dist/tex/latex/tikz-qtree/pgftree.tex
+\levelsep=\dimen339
+\subtreesep=\dimen340
+\smuggle@levelsep=\dimen341
+\smuggle@subtreesep=\dimen342
+\this@levelsep=\dimen343
+\this@subtreesep=\dimen344
+\pgftree@childx=\dimen345
+\pgftree@savechildx=\dimen346
+\pgftree@childy=\dimen347
+\pgftree@savechildy=\dimen348
+\pgftree@childi=\count539
+\pgftree@savechildi=\count540
+\pgftree@level=\count541
+\pgftree@depth=\dimen349
+\pgf@subpic@hbox@children=\box151
+\pgf@subpic@minx@children=\dimen350
+\pgf@subpic@miny@children=\dimen351
+\pgf@subpic@maxx@children=\dimen352
+\pgf@subpic@maxy@children=\dimen353
+\pgftree@lastchildx=\dimen354
+\pgftree@lastchildy=\dimen355
+))
+(c:/texlive/2024/texmf-dist/tex/latex/tikz-qtree/tikz-qtree.tex
+\@result=\toks76
+\child@list=\toks77
+\root@node=\toks78
+))
+(c:/texlive/2024/texmf-dist/tex/generic/dirtree/dirtree.sty
+Package: dirtree 2012/12/11 v0.32 package wrapper for dirtree
+
+(c:/texlive/2024/texmf-dist/tex/generic/dirtree/dirtree.tex
+`dirtree' v0.32, 2012/12/11 (jcc)
+\DT@offset=\dimen356
+\DT@width=\dimen357
+\DT@sep=\dimen358
+\DT@all=\dimen359
+\DT@rulewidth=\dimen360
+\DT@dotwidth=\dimen361
+\DTbaselineskip=\dimen362
+\DT@counti=\count542
+\DT@countii=\count543
+\DT@countiii=\count544
+\DT@countiv=\count545
+\DT@indent=\dimen363
+\DT@parskip=\dimen364
+\DT@baselineskip=\dimen365
+)
+File: dirtree.tex 2012/12/11 v0.32 `dirtree' (jcc)
+)
 (c:/texlive/2024/texmf-dist/tex/latex/caption/subcaption.sty
 Package: subcaption 2023/07/28 v1.6b Sub-captions (AR)
 
@@ -1659,18 +1718,18 @@ Package: caption 2023/08/05 v3.6o Customizing captions (AR)
 
 (c:/texlive/2024/texmf-dist/tex/latex/caption/caption3.sty
 Package: caption3 2023/07/31 v2.4d caption3 kernel (AR)
-\caption@tempdima=\dimen335
-\captionmargin=\dimen336
-\caption@leftmargin=\dimen337
-\caption@rightmargin=\dimen338
-\caption@width=\dimen339
-\caption@indent=\dimen340
-\caption@parindent=\dimen341
-\caption@hangindent=\dimen342
+\caption@tempdima=\dimen366
+\captionmargin=\dimen367
+\caption@leftmargin=\dimen368
+\caption@rightmargin=\dimen369
+\caption@width=\dimen370
+\caption@indent=\dimen371
+\caption@parindent=\dimen372
+\caption@hangindent=\dimen373
 Package caption Info: Standard document class detected.
 )
-\c@caption@flags=\count539
-\c@continuedfloat=\count540
+\c@caption@flags=\count546
+\c@continuedfloat=\count547
 Package caption Info: hyperref package is loaded.
 Package caption Info: longtable package is loaded.
 
@@ -1680,9 +1739,9 @@ Package: ltcaption 2021/01/08 v1.4c longtable captions (AR)
 Package caption Info: supertabular package is loaded.
 )
 Package caption Info: New subtype `subfigure' on input line 238.
-\c@subfigure=\count541
+\c@subfigure=\count548
 Package caption Info: New subtype `subtable' on input line 238.
-\c@subtable=\count542
+\c@subtable=\count549
 )
 (c:/texlive/2024/texmf-dist/tex/latex/setspace/setspace.sty
 Package: setspace 2022/12/04 v6.7b set line spacing
@@ -1690,9 +1749,9 @@ Package: setspace 2022/12/04 v6.7b set line spacing
 (c:/texlive/2024/texmf-dist/tex/latex/multirow/multirow.sty
 Package: multirow 2021/03/15 v2.8 Span multiple rows of a table
 \multirow@colwidth=\skip96
-\multirow@cntb=\count543
+\multirow@cntb=\count550
 \multirow@dima=\skip97
-\bigstrutjot=\dimen343
+\bigstrutjot=\dimen374
 )
 Package csquotes Info: Checking for multilingual support...
 Package csquotes Info: ... found 'babel' package.
@@ -1867,8 +1926,8 @@ Package biblatex Info: Reference segment=0 on input line 11.
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: End \AtBeginDocument code.
 
-Overfull \hbox (1.58401pt too wide) in paragraph at lines 44--51
- [][][] [] 
+Overfull \hbox (50.98912pt too wide) in paragraph at lines 24--31
+[][] 
  []
 
 [1
@@ -1876,130 +1935,590 @@ Overfull \hbox (1.58401pt too wide) in paragraph at lines 44--51
 \openout6 = `main.ist'.
 
 ]
+Overfull \hbox (1.58401pt too wide) in paragraph at lines 68--75
+ [][][] [] 
+ []
 
-LaTeX Warning: Reference `problems' on page 2 undefined on input line 59.
+[2]
+
+LaTeX Warning: Reference `problems' on page 3 undefined on input line 83.
 
 
-LaTeX Warning: Reference `data' on page 2 undefined on input line 61.
+LaTeX Warning: Reference `sample' on page 3 undefined on input line 85.
 
 
-LaTeX Warning: Reference `asymmetries' on page 2 undefined on input line 63.
+LaTeX Warning: Reference `data' on page 3 undefined on input line 87.
 
 
-LaTeX Warning: Reference `conclusion' on page 2 undefined on input line 65.
+LaTeX Warning: Reference `asymmetries' on page 3 undefined on input line 89.
 
+
+LaTeX Warning: Reference `conclusion' on page 3 undefined on input line 91.
+
+[3]
 
 Package biblatex Warning: Field 'extrayear' is deprecated.
 (biblatex)                Please use 'extradate' instead.
 (biblatex)                Using 'extradate' now.
 
-[2] [3]
-Overfull \hbox (1.58401pt too wide) in paragraph at lines 152--159
- [][][] [] 
- []
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\cite' on input line 178.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `subscript' on input line 178.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `subscript' on input line 178.
-
 [4]
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\cite' on input line 197.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `subscript' on input line 197.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `subscript' on input line 197.
-
-
-Overfull \hbox (1.58401pt too wide) in paragraph at lines 211--217
+Overfull \hbox (1.58401pt too wide) in paragraph at lines 190--197
  [][][] [] 
  []
 
 [5]
-Overfull \hbox (1.19054pt too wide) in paragraph at lines 227--228
-[]\TU/Brill-Roman.ttf(0)/m/n/12 Example ([][]7a[][]) exemplifies the perfect he
-ad-marking pattern, since there is no dependent to be marked.
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\citeauthor' on input line 216.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `subscript' on input line 216.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `subscript' on input line 216.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\citeyear' on input line 216.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `subscript' on input line 216.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `subscript' on input line 216.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\citeauthor' on input line 224.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\citeyear' on input line 224.
+
+
+Overfull \hbox (1.58401pt too wide) in paragraph at lines 233--240
+ [][][][] [] 
  []
 
 
-Overfull \hbox (1.58401pt too wide) in paragraph at lines 235--242
+Overfull \hbox (1.58401pt too wide) in paragraph at lines 241--248
  [][][] [] 
  []
-
-
-LaTeX Warning: Reference `even_basic_examples' on page 6 undefined on input lin
-e 244.
 
 [6]
-Overfull \hbox (13.96971pt too wide) in paragraph at lines 285--286
-\TU/Brill-Roman.ttf(0)/m/n/12 I believe that aforementioned problems with class
-ification of Mongolian, Hungarian and Evenki straight-
- []
-
-
-Overfull \hbox (0.3025pt too wide) in paragraph at lines 293--294
-\TU/Brill-Roman.ttf(0)/m/n/12 coincidence between the nominative and genitive f
-orms, as seen in Latin with \TU/Brill-Roman.ttf(0)/m/it/12 avis \TU/Brill-Roman
-.ttf(0)/m/n/12 meaning ’bird.[]\TU/Brill-Roman.ttf(0)/m/sc/12 nom
- []
-
-[7] [8] [9] [10]
-Overfull \hbox (1.58401pt too wide) in paragraph at lines 435--441
+Overfull \hbox (1.58401pt too wide) in paragraph at lines 249--255
  [][][] [] 
  []
 
 
-LaTeX Warning: Reference `even_berry' on page 11 undefined on input line 443.
+Overfull \hbox (1.58401pt too wide) in paragraph at lines 291--298
+ [][][] [] 
+ []
 
-[11]
-Underfull \hbox (badness 10000) in paragraph at lines 483--483
+[7]
+Overfull \hbox (1.58401pt too wide) in paragraph at lines 302--309
+ [][][] [] 
+ []
+
+
+Overfull \hbox (1.58401pt too wide) in paragraph at lines 317--324
+ [][][] [] 
+ []
+
+
+Overfull \hbox (1.58401pt too wide) in paragraph at lines 333--339
+ [][][] [] 
+ []
+
+[8]
+Overfull \hbox (1.58401pt too wide) in paragraph at lines 349--356
+ [][][] [] 
+ []
+
+
+Overfull \hbox (1.58401pt too wide) in paragraph at lines 361--367
+ [][][] [] 
+ []
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\citeauthor' on input line 384.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `subscript' on input line 384.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `subscript' on input line 384.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\citeyear' on input line 384.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `subscript' on input line 384.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `subscript' on input line 384.
+
+[9]
+Overfull \hbox (1.58401pt too wide) in paragraph at lines 398--404
+ [][][] [] 
+ []
+
+
+Overfull \hbox (4.70654pt too wide) in paragraph at lines 414--415
+[]\TU/Brill-Roman.ttf(0)/m/n/12 Example ([][]15a[][]) exemplifies the perfect h
+ead-marking pattern, since there is no dependent to be marked.
+ []
+
+
+Overfull \hbox (1.58401pt too wide) in paragraph at lines 424--431
+ [][][] [] 
+ []
+
+[10] [11]
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\citeauthor' on input line 489.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\citeyear' on input line 489.
+
+[12]
+Overfull \hbox (1.30322pt too wide) in paragraph at lines 504--505
+\TU/Brill-Roman.ttf(0)/m/n/12 within possessive constructions, identifying head
+-marking, dependent-marking, and double-marking
+ []
+
+[13] [14]
+Underfull \hbox (badness 10000) in paragraph at lines 592--592
+[]\TU/Brill-Roman.ttf(0)/m/n/10.95 C-marker with-
+ []
+
+
+Underfull \hbox (badness 3803) in paragraph at lines 592--592
+[]\TU/Brill-Roman.ttf(0)/m/n/10.95 D-marker with un-
+ []
+
+[15] [16] [17] [18] [19]
+Overfull \hbox (2.83923pt too wide) in paragraph at lines 743--744
+[]\TU/Brill-Roman.ttf(0)/b/n/12 Eurasia\TU/Brill-Roman.ttf(0)/m/n/12 : Even (Tu
+ngusic), Kildin Saami (Saami), Abaza (Northwest Caucasian), Russian (Slavic) 
+ []
+
+[20]
+Overfull \hbox (1.58401pt too wide) in paragraph at lines 831--837
+ [][][] [] 
+ []
+
+
+LaTeX Warning: Reference `even_berry' on page 21 undefined on input line 839.
+
+[21]
+Underfull \hbox (badness 10000) in paragraph at lines 873--873
 []\TU/Brill-Roman.ttf(0)/m/n/12 Inessive-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 485--485
+Underfull \hbox (badness 10000) in paragraph at lines 875--875
 []\TU/Brill-Roman.ttf(0)/m/n/12 Dative-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 506--506
+Underfull \hbox (badness 10000) in paragraph at lines 896--896
 []\TU/Brill-Roman.ttf(0)/m/n/12 Inessive-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 508--508
+Underfull \hbox (badness 10000) in paragraph at lines 898--898
 []\TU/Brill-Roman.ttf(0)/m/n/12 Dative-
  []
 
-[12] [13]
-Overfull \hbox (1.58401pt too wide) in paragraph at lines 569--575
+[22] [23]
+Overfull \hbox (1.58401pt too wide) in paragraph at lines 957--963
  [][][] [] 
  []
 
 
-Overfull \hbox (1.58401pt too wide) in paragraph at lines 578--584
+Overfull \hbox (1.58401pt too wide) in paragraph at lines 966--972
  [][][] [] 
  []
+
+[24]
+Overfull \hbox (1.58401pt too wide) in paragraph at lines 994--1000
+ [][][] [] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1011--1011
+[]\TU/Brill-Roman.ttf(0)/m/n/10.95 C-marker with-
+ []
+
+
+Underfull \hbox (badness 3803) in paragraph at lines 1011--1011
+[]\TU/Brill-Roman.ttf(0)/m/n/10.95 D-marker with un-
+ []
+
+
+Overfull \hbox (1.58401pt too wide) in paragraph at lines 1031--1037
+ [][][] [] 
+ []
+
+[25]
+Overfull \hbox (1.58401pt too wide) in paragraph at lines 1042--1048
+ [][][] [] 
+ []
+
+
+Overfull \hbox (1.58401pt too wide) in paragraph at lines 1051--1057
+ [][][] [] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1065--1065
+[]\TU/Brill-Roman.ttf(0)/m/n/10.95 C-marker with-
+ []
+
+
+Underfull \hbox (badness 3803) in paragraph at lines 1065--1065
+[]\TU/Brill-Roman.ttf(0)/m/n/10.95 D-marker with un-
+ []
+
+
+Overfull \hbox (1.58401pt too wide) in paragraph at lines 1080--1086
+ [][][] [] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1095--1095
+[]\TU/Brill-Roman.ttf(0)/m/n/10.95 C-marker with-
+ []
+
+
+Underfull \hbox (badness 3803) in paragraph at lines 1095--1095
+[]\TU/Brill-Roman.ttf(0)/m/n/10.95 D-marker with un-
+ []
+
+[26]
+Overfull \hbox (1.58401pt too wide) in paragraph at lines 1106--1112
+ [][][] [] 
+ []
+
+
+Overfull \hbox (1.58401pt too wide) in paragraph at lines 1117--1123
+ [][][] [] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1132--1132
+[]\TU/Brill-Roman.ttf(0)/m/n/10.95 C-marker with-
+ []
+
+
+Underfull \hbox (badness 3803) in paragraph at lines 1132--1132
+[]\TU/Brill-Roman.ttf(0)/m/n/10.95 D-marker with un-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1155--1155
+[]\TU/Brill-Roman.ttf(0)/m/n/10.95 C-marker with-
+ []
+
+
+Underfull \hbox (badness 3803) in paragraph at lines 1155--1155
+[]\TU/Brill-Roman.ttf(0)/m/n/10.95 D-marker with un-
+ []
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[27]
+Overfull \hbox (1.58401pt too wide) in paragraph at lines 1169--1175
+ [][][] [] 
+ []
+
+
+Overfull \hbox (1.58401pt too wide) in paragraph at lines 1180--1186
+ [][][] [] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1194--1194
+[]\TU/Brill-Roman.ttf(0)/m/n/10.95 C-marker with-
+ []
+
+
+Underfull \hbox (badness 3803) in paragraph at lines 1194--1194
+[]\TU/Brill-Roman.ttf(0)/m/n/10.95 D-marker with un-
+ []
+
+
+Overfull \hbox (8.21054pt too wide) in paragraph at lines 1202--1203
+\TU/Brill-Roman.ttf(0)/m/n/12 When the possessor is omitted, possessive suffixe
+s are used as in (35c[]) where the possessor ‘he/she/they’
+ []
+
+[28]
+Overfull \hbox (1.58401pt too wide) in paragraph at lines 1208--1214
+ [][][] [] 
+ []
+
+
+Overfull \hbox (1.58401pt too wide) in paragraph at lines 1216--1222
+ [][][] [] 
+ []
+
+
+Overfull \hbox (1.58401pt too wide) in paragraph at lines 1224--1230
+ [][][] [] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1239--1239
+[]\TU/Brill-Roman.ttf(0)/m/n/10.95 C-marker with-
+ []
+
+
+Underfull \hbox (badness 3803) in paragraph at lines 1239--1239
+[]\TU/Brill-Roman.ttf(0)/m/n/10.95 D-marker with un-
+ []
+
+
+Overfull \hbox (1.58401pt too wide) in paragraph at lines 1252--1258
+ [][][] [] 
+ []
+
+[29]
+Overfull \hbox (1.58401pt too wide) in paragraph at lines 1263--1269
+ [][][][] [] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1276--1276
+[]\TU/Brill-Roman.ttf(0)/m/n/10.95 C-marker with-
+ []
+
+
+Underfull \hbox (badness 3803) in paragraph at lines 1276--1276
+[]\TU/Brill-Roman.ttf(0)/m/n/10.95 D-marker with un-
+ []
+
+
+Overfull \hbox (1.58401pt too wide) in paragraph at lines 1288--1294
+ [][][] [] 
+ []
+
+
+Overfull \hbox (1.58401pt too wide) in paragraph at lines 1299--1305
+ [][][] [] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1314--1314
+[]\TU/Brill-Roman.ttf(0)/m/n/10.95 C-marker with-
+ []
+
+
+Underfull \hbox (badness 3803) in paragraph at lines 1314--1314
+[]\TU/Brill-Roman.ttf(0)/m/n/10.95 D-marker with un-
+ []
+
+
+Overfull \hbox (1.58401pt too wide) in paragraph at lines 1327--1333
+ [][][] [] 
+ []
+
+[30]
+Underfull \hbox (badness 10000) in paragraph at lines 1342--1342
+[]\TU/Brill-Roman.ttf(0)/m/n/10.95 C-marker with-
+ []
+
+
+Underfull \hbox (badness 3803) in paragraph at lines 1342--1342
+[]\TU/Brill-Roman.ttf(0)/m/n/10.95 D-marker with un-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1387--1387
+[]\TU/Brill-Roman.ttf(0)/m/n/10.95 C-marker with-
+ []
+
+
+Underfull \hbox (badness 3803) in paragraph at lines 1387--1387
+[]\TU/Brill-Roman.ttf(0)/m/n/10.95 D-marker with un-
+ []
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[31]
+Overfull \hbox (1.58401pt too wide) in paragraph at lines 1397--1403
+ [][][] [] 
+ []
+
+
+Overfull \hbox (1.58401pt too wide) in paragraph at lines 1407--1413
+ [][][] [] 
+ []
+
+
+Overfull \hbox (1.58401pt too wide) in paragraph at lines 1417--1423
+ [][][] [] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1433--1433
+[]\TU/Brill-Roman.ttf(0)/m/n/10.95 C-marker with-
+ []
+
+
+Underfull \hbox (badness 3803) in paragraph at lines 1433--1433
+[]\TU/Brill-Roman.ttf(0)/m/n/10.95 D-marker with un-
+ []
+
+
+Overfull \hbox (1.58401pt too wide) in paragraph at lines 1444--1450
+ [][][] [] 
+ []
+
+[32]
+Overfull \hbox (1.58401pt too wide) in paragraph at lines 1456--1462
+ [][][] [] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1472--1472
+[]\TU/Brill-Roman.ttf(0)/m/n/10.95 C-marker with-
+ []
+
+
+Underfull \hbox (badness 3803) in paragraph at lines 1472--1472
+[]\TU/Brill-Roman.ttf(0)/m/n/10.95 D-marker with un-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1503--1503
+[]\TU/Brill-Roman.ttf(0)/m/n/10.95 C-marker with-
+ []
+
+
+Underfull \hbox (badness 3803) in paragraph at lines 1503--1503
+[]\TU/Brill-Roman.ttf(0)/m/n/10.95 D-marker with un-
+ []
+
+[33]
+Underfull \hbox (badness 10000) in paragraph at lines 1540--1540
+[]\TU/Brill-Roman.ttf(0)/m/n/10.95 C-marker with-
+ []
+
+
+Underfull \hbox (badness 3803) in paragraph at lines 1540--1540
+[]\TU/Brill-Roman.ttf(0)/m/n/10.95 D-marker with un-
+ []
+
+
+Overfull \hbox (1.58401pt too wide) in paragraph at lines 1570--1576
+ [][][] [] 
+ []
+
+[34]
+Underfull \hbox (badness 10000) in paragraph at lines 1583--1583
+[]\TU/Brill-Roman.ttf(0)/m/n/10.95 C-marker with-
+ []
+
+
+Underfull \hbox (badness 3803) in paragraph at lines 1583--1583
+[]\TU/Brill-Roman.ttf(0)/m/n/10.95 D-marker with un-
+ []
+
+
+Overfull \hbox (1.58401pt too wide) in paragraph at lines 1595--1602
+ [][][][] [] 
+ []
+
+
+Overfull \hbox (1.58401pt too wide) in paragraph at lines 1603--1609
+ [][][] [] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1618--1618
+[]\TU/Brill-Roman.ttf(0)/m/n/10.95 C-marker with-
+ []
+
+
+Underfull \hbox (badness 3803) in paragraph at lines 1618--1618
+[]\TU/Brill-Roman.ttf(0)/m/n/10.95 D-marker with un-
+ []
+
+[35]
+Underfull \hbox (badness 10000) in paragraph at lines 1673--1673
+[]\TU/Brill-Roman.ttf(0)/m/n/10.95 C-marker with-
+ []
+
+
+Underfull \hbox (badness 3803) in paragraph at lines 1673--1673
+[]\TU/Brill-Roman.ttf(0)/m/n/10.95 D-marker with un-
+ []
+
+
+Overfull \hbox (1.58401pt too wide) in paragraph at lines 1691--1697
+ [][][] [] 
+ []
+
+[36]
+Overfull \hbox (1.58401pt too wide) in paragraph at lines 1710--1716
+ [][][] [] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1723--1723
+[]\TU/Brill-Roman.ttf(0)/m/n/10.95 C-marker with-
+ []
+
+
+Underfull \hbox (badness 3803) in paragraph at lines 1723--1723
+[]\TU/Brill-Roman.ttf(0)/m/n/10.95 D-marker with un-
+ []
+
+
+Overfull \hbox (1.58401pt too wide) in paragraph at lines 1733--1739
+ [][][] [] 
+ []
+
+
+Overfull \hbox (1.58401pt too wide) in paragraph at lines 1743--1749
+ [][][] [] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1758--1758
+[]\TU/Brill-Roman.ttf(0)/m/n/10.95 C-marker with-
+ []
+
+
+Underfull \hbox (badness 3803) in paragraph at lines 1758--1758
+[]\TU/Brill-Roman.ttf(0)/m/n/10.95 D-marker with un-
+ []
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 (./main.gls)
-Underfull \hbox (badness 10000) in paragraph at lines 1--603
+Underfull \hbox (badness 10000) in paragraph at lines 1--1765
 
  []
 
-[14] [15] [16] (./main.aux)
+[37] [38] [39] (./main.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-04-11>
@@ -2009,18 +2528,18 @@ L3 programming layer <2024-04-11>
 LaTeX Warning: There were undefined references.
 
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 91C7344C0E4BE2F1F15DC28B6C5306E8;3643.
+(rerunfilecheck)             Checksum: 36454385E4DE12F470AC395B12023B0F;8814.
 Package logreq Info: Writing requests to 'main.run.xml'.
 \openout1 = `main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 56593 strings out of 474705
- 1197101 string characters out of 5759833
- 2088573 words of memory out of 5000000
- 78053 multiletter control sequences out of 15000+600000
- 570658 words of font info for 103 fonts, out of 8000000 for 9000
+ 57241 strings out of 474705
+ 1209412 string characters out of 5759833
+ 2104565 words of memory out of 5000000
+ 78661 multiletter control sequences out of 15000+600000
+ 576337 words of font info for 119 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 113i,10n,134p,2392b,5226s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 113i,10n,134p,2392b,5232s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on main.pdf (16 pages).
+Output written on main.pdf (39 pages).
